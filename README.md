@@ -1,1 +1,1 @@
-# drop-down-react-native
+# Repositório apenas para estudos
